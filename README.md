@@ -8,8 +8,8 @@ You can download the latest release of the pack [here](https://github.com/jadc/l
 Extract the zip file and drag the "late miner" folder into your Minecraft resources pack folder. (`%appdata%\.minecraft\resourcepacks`)
 
 ## Screenshots
-![Screenshot](screenshots/screenshot1.jpg)
-![Screenshot](screenshots/screenshot2.jpg)
-![Screenshot](screenshots/screenshot3.jpg)
-![Screenshot](screenshots/screenshot4.jpg)
-![Screenshot](screenshots/screenshot5.jpg)
+![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/2.png)
+![Screenshot](screenshots/3.png)
+![Screenshot](screenshots/4.png)
+![Screenshot](screenshots/5.png)
