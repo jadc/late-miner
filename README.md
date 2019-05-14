@@ -3,7 +3,9 @@
 A dark-themed Minecraft resource pack.
 
 ## Download
-You can download the pack [here](https://github.com/jadc/late-miner/raw/master/late%20miner.zip).
+You can download the latest release of the pack [here](https://github.com/jadc/late-miner/releases/tag/1.1).
+
+Extract the zip file and drag the "late miner" folder into your Minecraft resources pack folder. (`%appdata%\.minecraft\resourcepacks`)
 
 ## Screenshots
 ![Screenshot](screenshots/screenshot1.jpg)
