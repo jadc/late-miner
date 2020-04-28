@@ -1,3 +1,6 @@
+# This resource pack has been discontinued due to superior options, such as Vanilla Tweaks
+# For a updated version and more changes, see [jad's textures](https://github.com/jadc/jads-textures)
+
 ![Logo](screenshots/logo.png)
 # late-miner
 A dark-themed Minecraft resource pack.
